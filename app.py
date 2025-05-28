@@ -11,7 +11,26 @@ DUNE_API_URL = "https://api.sim.dune.com/v1/simulate"
 CHAIN_IDS = {
     "Ethereum": 1,
     "Polygon": 137,
+    "BNB Smart Chain": 56,
     "Arbitrum": 42161,
+    "Optimism": 10,
+    "Avalanche C-Chain": 43114,
+    "Fantom": 250,
+    "Celo": 42220,
+    "Gnosis (xDAI)": 100,
+    "zkSync Era": 324,
+    "Base": 8453,
+    "Linea": 59144,
+    "Polygon zkEVM": 1101,
+    "Scroll": 534352,
+    "Mantle": 5000,
+    "Kava": 2222,
+    "Metis": 1088,
+    "Moonbeam": 1284,
+    "Moonriver": 1285,
+    "Harmony": 1666600000,
+    "Cronos": 25,
+    "Aurora": 1313161554,
 }
 
 # ===== UTILS =====
